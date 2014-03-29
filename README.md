@@ -13,3 +13,5 @@ Features
 - Custom SLA reports per site or aggregate
 - Export reports to excel
 
+Install
+-------
