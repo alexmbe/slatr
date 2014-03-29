@@ -1,0 +1,93 @@
+body{
+	margin: 0px 0px 0px 0px;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+   color:#454545;
+	background-color: #ffffff;
+}
+
+table {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color:#454545;
+}
+
+.txtWhite {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+.white {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.txtWhite:hover {
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+.txtGrey{
+	color:#454545;
+	text-decoration: none;
+}
+
+.txtGrey:hover{
+	color:#454545;
+	text-decoration: underline;
+}
+
+
+.black{
+	color:#000000;
+	text-decoration: none;
+}
+.txtBlack{
+	color:#000000;
+	text-decoration: none;
+}
+
+.txtMaroon{
+	color:#CC0000;
+	text-decoration: none;
+}
+
+.txtMaroon:hover{
+	color:#CC0000;
+	text-decoration: underline;
+}
+
+.inText {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	border: 1px solid #999999;
+	color: #454545;
+}
+
+.border{
+	border: 1px solid #999999;
+}
+
+.submit {
+	border: none;
+	background-color: #1069AE;
+	color: #ffffff;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	height:18px;
+	font-weight:bold;
+}
+
+
+.error, .red{
+	color: #cc0000;
+	text-decoration: none;
+}
+
+a{
+  color: #CC0000;
+  text-decoration: none;
+}
+a:hover {
+  color: #CC0000;
+  text-decoration: underline;
+}
