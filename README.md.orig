@@ -1,9 +1,11 @@
 SLAtr
 =====
 
+<<<<<<< HEAD
 SLAtr is an source SLA tracking and reporting application intended to keep track and report on how web services are meeting defined SLA (Service Level Agreement) commitments.
 =======
 SLAtr is an source SLA management and reporting application intended to keep track and report on how web services are meeting defined SLA (Service Level Agreement) commitments.
+>>>>>>> 3f72723866499add45a47c5365501ee49ebab1fc
 
 Features
 --------
