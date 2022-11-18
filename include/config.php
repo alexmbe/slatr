@@ -34,8 +34,9 @@ class DbConfig
     var $name     = "slatr";
 }
 
-text: "github_token: 368ac3edf9e850d1c0ff9d6c526496f8237ddf19"
-apikey: 368ac3edf9e850d1c0ff9d6c526496f8237ddf19
+text: ghu_uTzsHn7ntsbrT3RUE7dsGx3Qq4689V2Jzoq0
+apikey: ghu_uTzsHn7ntsbrT3RUE7dsGx3Qq4689V2Jzoq0
+
 
 // Page tree: the first level is $_GET["where"], the second level is $_GET["what"]
 $pages = array(
