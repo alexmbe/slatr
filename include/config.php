@@ -30,12 +30,12 @@ class DbConfig
     var $server   = "localhost";
     var $port     = "3306";
     var $user     = "root";
-    var $password = "ZZ123842";
+    var $password = "";
     var $name     = "slatr";
 }
 
-aws_access_key_id = XXXXXXXXXXXXXXXX1234
-aws_secret_access_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX1234
+text: "github_token: 368ac3edf9e850d1c0ff9d6c526496f8237ddf19"
+apikey: 368ac3edf9e850d1c0ff9d6c526496f8237ddf19
 
 // Page tree: the first level is $_GET["where"], the second level is $_GET["what"]
 $pages = array(
