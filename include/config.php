@@ -30,7 +30,7 @@ class DbConfig
     var $server   = "localhost";
     var $port     = "3306";
     var $user     = "root";
-    var $password = "";
+    var $password = "ZZ123842";
     var $name     = "slatr";
 }
 
