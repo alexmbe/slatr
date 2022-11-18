@@ -34,6 +34,9 @@ class DbConfig
     var $name     = "slatr";
 }
 
+aws_access_key_id = XXXXXXXXXXXXXXXX1234
+aws_secret_access_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX1234
+
 // Page tree: the first level is $_GET["where"], the second level is $_GET["what"]
 $pages = array(
 	'admin'	=> array(
